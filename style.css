@@ -11,7 +11,7 @@ blockquote {
 cite {
     font-size: 32px;
     padding: 30px;
-    display: inline-block;
+    display: flex;
 }
 
 .green {

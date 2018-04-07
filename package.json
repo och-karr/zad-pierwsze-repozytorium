@@ -1,0 +1,25 @@
+{
+  "name": "zad-pierwsze-repozytorium",
+  "version": "1.0.0",
+  "description": "First task - first repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/och-karr/zad-pierwsze-repozytorium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/och-karr/zad-pierwsze-repozytorium/issues"
+  },
+  "homepage": "https://github.com/och-karr/zad-pierwsze-repozytorium#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.23.6",
+    "nu-html-checker": "^0.1.0"
+  }
+}
