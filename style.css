@@ -11,6 +11,7 @@ blockquote {
 cite {
     font-size: 32px;
     padding: 30px;
+    display: -ms-flexbox;
     display: flex;
 }
 
