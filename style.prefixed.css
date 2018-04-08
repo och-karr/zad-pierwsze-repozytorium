@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+blockquote {
+    padding: 60px 20%;
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    font-size: 28px;
+}
+
+cite {
+    font-size: 32px;
+    padding: 30px;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.green {
+    color: green;
+}
